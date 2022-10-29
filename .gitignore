@@ -14,8 +14,7 @@ frontend/dist
 
 # Test binary, built with `go test -c`
 *.test
-git config --global user.email "daniyal.ibrahim10@gmail.com"
-  git config --global user.name "Daniyal Ibrahim"
+
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
